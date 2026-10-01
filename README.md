@@ -59,8 +59,8 @@ A multi-tenant SaaS that reads car insurance quotes in PDF format from **GNP, Qu
 | [CCEI-MAP](https://github.com/RafaMadera18/CCEI-MAP) | Campus app showing classroom locations, schedules and academic events at UADY's Exact Sciences and Engineering campus | — |
 | [CS_Equipo4](https://github.com/RafaMadera18/CS_Equipo4) | Hotel management software for the "María de Guadalupe" hotel | TypeScript |
 | [DevOps_ProyectoFinal](https://github.com/RafaMadera18/DevOps_ProyectoFinal) | Vehicle fleet management system built with a continuous integration pipeline | DevOps · CI/CD |
-| [AWS_ProyectoFinal](https://github.com/RafaMadera18/AWS_ProyectoFinal) | REST API deployed on AWS | NestJS · AWS |
-| [devtree](https://github.com/RafaMadera18/devtree) | "Link in bio" platform for developers | TypeScript · React |
+| [AWS-ProyectoFinal](https://github.com/RafaMadera18/AWS-ProyectoFinal) | REST API for managing students and professors, with DynamoDB, S3 and SNS | NestJS · AWS |
+| [devtree](https://github.com/RafaMadera18/devtree) · [frontend](https://github.com/RafaMadera18/dev-tree-frontend) | "Link in bio" app for developers | Express · MongoDB · React |
 
 ## GitHub Stats
 
